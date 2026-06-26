@@ -9,6 +9,7 @@ fakeinit = 0;
 depth = 90000;
 spd = 0;
 direction = 0;
+balltype = 0;
 
 solidMeeting = function(arg0, arg1)
 {
